@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/arthurderauw/Documents/ma/bewijzenmap/periode1.1/pro2/Pro:B1:L1/hello_world/hello world.csproj": {}
+  },
+  "projects": {
+    "/Users/arthurderauw/Documents/ma/bewijzenmap/periode1.1/pro2/Pro:B1:L1/hello_world/hello world.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/arthurderauw/Documents/ma/bewijzenmap/periode1.1/pro2/Pro:B1:L1/hello_world/hello world.csproj",
+        "projectName": "hello world",
+        "projectPath": "/Users/arthurderauw/Documents/ma/bewijzenmap/periode1.1/pro2/Pro:B1:L1/hello_world/hello world.csproj",
+        "packagesPath": "/Users/arthurderauw/.nuget/packages/",
+        "outputPath": "/Users/arthurderauw/Documents/ma/bewijzenmap/periode1.1/pro2/Pro:B1:L1/hello_world/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/arthurderauw/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
